@@ -1,0 +1,10 @@
+.albums .card:hover{
+    outline: 4px solid #3af0e7;
+}
+
+.albums .card-text{
+    padding: 10px 10px;
+}
+.albums a{
+    color: grey;
+}
